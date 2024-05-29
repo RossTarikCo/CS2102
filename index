@@ -1,0 +1,45 @@
+<!--this edit connects the boards and home pages together
+
+Prof. Ross
+rcopeland85692@uat.edu
+
+23may2024
+-->
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Professor Ross' Webpage</title>
+     <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+
+   
+        <header><h1>Welcome To Prof Ross' Webpage</h1></header>
+	<nav>
+		<h2>Navigation</h2> 
+        <h3><a href="./index.html">Home</a><br>
+            <a href="./boards.html"> Boards</a></h3>    
+     </nav>
+    <p>
+        I am teaching CSC 102. The Class is Summer 2024. My Teacher is Professor Prater.
+    </p>
+    <p>
+         
+		 <center><img id="memeImage" src="memeroni.webp"></center>
+    
+	</p>
+	
+    
+    <footer>
+        Prof. Ross<br>
+        University of Advancing Technology<br> 
+        2625 W Baseline Rd, <br>
+        Tempe, AZ 85283 <br>
+        (800) 658-5744 		
+	</footer>
+</body>
+
+
+</html>
