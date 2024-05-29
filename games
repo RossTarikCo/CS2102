@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<!--
+ Game page to satisfy Assignment 3.1 The Building Blocks of Java Script Functions
+ 
+ ross copeland
+ 28may2024
+ rcopeland85692@uat.edu
+-->
+
+<head>
+    <title>Game Page</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body>
+    <header>
+        <h1>Welcome To My Game page</h1>
+    </header>
+    <br>
+    <br>
+    <h2>
+        <center>Let's Play Some Craps
+    </h2>
+    </center>
+    <u>Rules for Craps<br></u>
+    <ol>
+        <li>Roll two dice</li>
+        <li>Add up to 7 nor 11, you lose!</li>
+        <li>If they are doubles or even, you win!</li>
+        <li>Everything else is a push</li>
+
+
+    </ol>
+</body>
+
+
+</html>
